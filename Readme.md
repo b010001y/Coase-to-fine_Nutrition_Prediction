@@ -2,7 +2,7 @@
 
 This repository is the official implementation of our method. In this work, we propose the coarse-to-fine paradigm combined with structure loss to predict nutrition. 
 
-![](.\\sources\\Framework.png)
+![](./sources/Framework.png)
 
 
 ## Requirements
